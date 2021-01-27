@@ -12,7 +12,7 @@
          "target":"map.json"
         }
     },
- "height":34,
+ "height":34, 
  "infinite":false,
  "layers":[
         {
